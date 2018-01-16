@@ -58,9 +58,7 @@ Como excepción a la prueba solo admite una sola corrida, pero dado que es recur
 * Caso 2: 
 Permite la ejecución concunrrentes de 10 llamadas (task). Estas al igual que el test anterior son atendidas por los empleados. Para simular la asignación de tareas ON_HOLD, se definió un alcance o limite de asignaciones para cada rol. Cuando agregamos mas empleados que atiendan el trabajo, empezaran a tomar los mismos en la medida que no tengan asignaciones correspondientes a sus roles. En este caso al estar desasignados tomarán tareas de la cola ON_HOLD.
 
-## Vea también
 
-[almundo-frontend-exercise] (https://github.com/ewatemberg/almundo-frontend-exercise).
 
  
 
