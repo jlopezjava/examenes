@@ -8,7 +8,7 @@ Ejercicio backend para el examen de ingreso de almundo.com
 
 Existe un call center donde hay 3 tipos de empleados: operador, supervisor y director. El proceso de la atención de una llamada
 telefónica en primera instancia debe ser atendida por un operador, si no hay ninguno libre debe ser atendida por un supervisor, y de no
-haber tampoco supervisores libres debe ser atendida por un director.
+tengo que gnerar algun cambio haber tampoco supervisores libres debe ser atendida por un director.
 
 1. Diseñar el modelado de clases y diagramas UML necesarios para documentar y comunicar el diseño.
 2. Debe existir una clase Dispatcher encargada de manejar las llamadas, y debe contener el método dispatchCall para que las
